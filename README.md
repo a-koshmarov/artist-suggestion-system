@@ -1,6 +1,11 @@
 # artist-suggestion-system
  Keras embedding model suggesting artist similar to the given one.
  
+### Notebooks
+
+* *Artist suggestions (research)* - data preprocessing, model training and evaluation
+* *Artist suggestions (inference)* - quick artist recommendations
+ 
 ### Model
 ![Model architecture](model.png)
  
